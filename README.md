@@ -1,6 +1,4 @@
-# Earthquakes and Volcano Deformation
-by Paul Segall (2010)
+# README.md
 
-going to update this when I find the time
-
--Nate
+I am recreating some of the figures and eqautions as Matlab functions as I read through 'Earthquake and Volcano Deformation' by Paul Segall (2010).\n
+I will organize this file better later

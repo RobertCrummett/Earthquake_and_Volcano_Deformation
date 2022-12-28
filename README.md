@@ -1,5 +1,6 @@
-# README.md
+# Earthquake and Volcano Deformation
 
-I am recreating some of the figures and eqautions as Matlab functions as I read through 'Earthquake and Volcano Deformation' by Paul Segall (2010).
+This repo contains the functions I created while reading through Paul Segall's magnificent textbook, "Earthquake and Volcano Deformation".
+My main goal was to recreate as many figures as I could in color.
 
-I will organize this file better later
+As of December 2022, this remains a work in progress. I am busy studying electromagnetic geophysical techniques for work.
